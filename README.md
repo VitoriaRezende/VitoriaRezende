@@ -12,24 +12,25 @@
 
 <br>
 
-
-
-
 ### 💫 Sobre mim
-Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação.  
-Focada em desenvolvimento **Full Stack**, criando projetos e evoluindo constantemente 🚀  
+Sou estudante de Engenharia de Software e estou construindo minha jornada na tecnologia na prática.  
+Tenho focado em desenvolvimento Full Stack, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀   
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="270px" align="right">
+
 
 ### 🧠 Tecnologias
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="270px" align="right">
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" height="38"/>
   <img src="https://skillicons.dev/icons?i=python,java,cpp" height="38"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="38"/>
 </p>
+
+
 
 <br>
 

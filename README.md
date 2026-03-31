@@ -26,8 +26,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaRezende&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaRezende&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaRezende&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaRezende&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 ---
@@ -35,11 +35,11 @@
 ## 🔥 Atividade
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=VitoriaRezende&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=VitoriaRezende&theme=tokyonight&cache_seconds=86400" />
 </div>
 
 ---
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-rezende-5177221b7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-rezende-5177221b7)

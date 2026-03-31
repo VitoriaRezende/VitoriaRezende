@@ -26,8 +26,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaRezende&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaRezende&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaRezende&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaRezende&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -35,10 +35,10 @@
 ## 🔥 Atividade
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VitoriaRezende&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=VitoriaRezende&theme=tokyonight" />
 </div>
 
----
+
 
 
 

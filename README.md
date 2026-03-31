@@ -40,6 +40,14 @@
 
 ---
 
-## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-rezende-5177221b7)
+
+  ## 🌐 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/vit%C3%B3ria-rezende-5177221b7" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/VitoriaRezende">
+  <img src="https://img.shields.io/github/followers/VitoriaRezende?label=Seguidores&style=for-the-badge">
+</a>

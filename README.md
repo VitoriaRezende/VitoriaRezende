@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Vitória Rezende!
 
-<!--
-**VitoriaRezende/VitoriaRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software 
+🚀 Focada em Full Stack 
+📍 Brasil
 
-Here are some ideas to get you started:
+✨ Buscando minha primeira oportunidade na área de tecnologia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="C++" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaRezende&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaRezende&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 🔥 Atividade
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=VitoriaRezende&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitória-rezende-5177221b7)

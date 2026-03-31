@@ -1,9 +1,10 @@
 # 👋 Olá, eu sou a Vitória Rezende!
 
-💻 Estudante de Engenharia de Software 
-🚀 Focada em Full Stack 
-📍 Brasil
+💻 Estudante de Engenharia de Software  
+🚀 Focada em Full Stack  
+📍 Brasil  
 
+💡 Apaixonada por tecnologia e desenvolvimento de soluções criativas  
 ✨ Buscando minha primeira oportunidade na área de tecnologia  
 
 ---
@@ -25,7 +26,7 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaRezende&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaRezende&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaRezende&layout=compact&theme=tokyonight"/>
 </div>
 
@@ -41,4 +42,4 @@
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitória-rezende-5177221b7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-rezende-5177221b7)

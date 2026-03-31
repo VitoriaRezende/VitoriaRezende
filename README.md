@@ -1,77 +1,88 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=130&section=header"/>
 
-<h1 align="center">Olá 👋, eu sou a Vitória Rezende</h1>
+<h1 align="center">Vitória Rezende ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia;Em+busca+da+primeira+oportunidade" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=22&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Full+Stack+Developer;Apaixonada+por+Tecnologia" />
 </p>
 
----
+<p align="center">
+  <b>Transformando ideias em código com criatividade e consistência 💜</b>
+</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
+<br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="270px" align="right">
 
 ### 💫 Sobre mim
+Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação.  
+Focada em desenvolvimento **Full Stack**, criando projetos e evoluindo constantemente 🚀  
 
-- 💻 Estudante de Engenharia de Software  
-- 🚀 Focada em desenvolvimento Full Stack  
-- 📍 Brasil  
-- 💡 Apaixonada por tecnologia e soluções criativas  
-- 🎯 Em busca da minha primeira oportunidade  
+<br>
 
----
+### 🧠 Tecnologias
 
-### 🦄 Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="38"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" height="38"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="38"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+<br>
 
----
+### ⚙️ Ferramentas
 
-### 💼 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="38"/>
+</p>
 
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+<br>
 
----
+### 📊 Minha jornada
 
-### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitoriaRezende&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true"/>
+</p>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaRezende&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaRezende&layout=compact&theme=tokyonight"/>
-</div>
+<br>
 
----
+### 📈 Progresso e foco
 
-### 🔥 Atividade
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-80%25-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-70%25-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-65%25-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-60%25-8A2BE2?style=for-the-badge"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VitoriaRezende&theme=tokyonight" />
-</div>
+<br>
 
----
+### ✨ Atualmente
+
+- 🚀 Desenvolvendo projetos Full Stack  
+- 📚 Estudando novas tecnologias  
+- 🎯 Focada na primeira oportunidade  
+
+<br>
 
 ### 🌐 Contato
 
 <p align="center">
   <a href="mailto:vitoriaparecida456@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-rezende-5177221b7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-5D3FD3?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="https://wa.me/16991367559">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
----
+<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<p align="center">
+  💜 Obrigada por visitar meu perfil
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=130&section=footer"/>

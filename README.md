@@ -12,13 +12,16 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="270px" align="right">
+
+
 
 ### 💫 Sobre mim
 Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação.  
 Focada em desenvolvimento **Full Stack**, criando projetos e evoluindo constantemente 🚀  
 
 <br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="270px" align="right">
 
 ### 🧠 Tecnologias
 
@@ -56,6 +59,8 @@ Focada em desenvolvimento **Full Stack**, criando projetos e evoluindo constante
 </p>
 
 <br>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260px" align="right">
 
 ### ✨ Atualmente
 

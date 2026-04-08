@@ -3,7 +3,7 @@
 <h1 align="center">Vitória Rezende ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=22&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Full+Stack+Developer;Apaixonada+por+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=22&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Software;Full+Stack+Developer;Apaixonada+por+Tecnologia" />
 </p>
 
 <p align="center">
